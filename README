@@ -1,1 +1,2 @@
 Need the exome_contig_chr_files directory that has the 24 chr files created by splitting the exome_table.txt file. 
+Deposited the 24 chrs files into S3 bucket called "ExonChromFiles" RUN curl -L -O https://s3.msi.umn.edu/ExonChromFiles/chromosome_exon_positions.tgz
